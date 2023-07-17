@@ -1,6 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&repeat=false&width=435&height=50&lines=Hi%2C+I'm+HyeKyung!)](https://git.io/typing-svg)<br>
-Nice to meet you. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="20" height="20" />
-<br>I'm currently in Mirim Girls' Information Science High School
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Teacher.png" alt="Woman Teacher" width="20" height="20" /><br>
-  I'm currentry learning &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pencil.png" alt="Pencil" width="20" height="20" />
-  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="44" height="44" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="44" height="44" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="44" height="44" /></div>
+
