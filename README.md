@@ -22,7 +22,7 @@
 
 
 </details>
-<details open="">
+<details>
 <summary>
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="2%" /> 나의 깃허브
 </summary>
