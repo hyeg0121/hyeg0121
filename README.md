@@ -22,15 +22,7 @@
 
 
 </details>
-<details>
-<summary>
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="2%" /> 나의 깃허브
-</summary>
-<br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hyeg0121&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly&background=45%2CFFFFFF%2CEBEBEB)](https://git.io/streak-stats)
-
-</details>
 
 </i>
 
