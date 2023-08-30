@@ -10,7 +10,7 @@ jobs:
         uses: actions-js/profile-readme@master
         with:
           username: <your username>
-          MY_TOKEN': ${{ secrets.MY_TOKEN' }}
+          github_token: ${{ secrets.MY_TOKEN }}
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
