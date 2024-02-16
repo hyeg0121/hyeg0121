@@ -1,6 +1,5 @@
-여기서는 `코드` 쓰고,
-[저기](https://hulrud.tistory.com/)서는 글 쓰고 (＠´ー`)ﾉﾞ
-
+[티스토리](https://hulrud.tistory.com/)도 봐주세요 🙂
+<!-- 
 <details>
 <summary>
 현재 도전 중 &nbsp<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="20" height="20" />
@@ -24,3 +23,4 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 </details>
+-->
