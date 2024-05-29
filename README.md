@@ -9,4 +9,3 @@
 <br>
 
 > 📚 [TISTORY](https://hulrud.tistory.com/) <br/> 
-> 📃 [NOTION](https://hye-in-noiton.notion.site/Hailey-s-Notion-18799a235fd841efa2dac29b42b838b0?pvs=4)
