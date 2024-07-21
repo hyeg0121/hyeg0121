@@ -8,4 +8,5 @@
 
 <br>
 
-> 📚 [TISTORY](https://hulrud.tistory.com/) <br/> 
+> 📚 [TISTORY](https://hulrud.tistory.com/) <br/>
+> 👀 [RESUME](https://bit.ly/hyetfolio)
